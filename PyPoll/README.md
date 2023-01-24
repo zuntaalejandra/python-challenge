@@ -1,5 +1,5 @@
 # python-challenge
-Using python code, we analize data into a csv file with voting results. The program find the different candidates found in the file, and count the votes for each one. Finally, there will be a summary of the results on screen and in a output data file.    
+Using python code, we analize data into a csv file with voting results. The program find the different candidates registered in the file, and count the votes for each one. Finally, there will print a summary of the results on screen and in a output data file.    
 you must run  python file named main.py
 
 The input data is Resources\election_data.csv 
